@@ -1,27 +1,27 @@
 {
    "showcaseProjects": [
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/stationary.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/stationary.png?raw=true",
          "alt": "stationary work"
       },
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/iphoneMockup.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/iphoneMockup.png?raw=true",
          "alt": "An iphone mockup"
       },
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/keychainStrap.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/keychainStrap.png?raw=true",
          "alt": "keychain strap"
       },
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/drycleano.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/drycleano.png?raw=true",
          "alt": "Hello drycleano branding"
       },
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/envelope.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/envelope.png?raw=true",
          "alt": "envelope"
       },
       {
-         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/mellofoxbranding.png?raw=true",
+         "url": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/mellofoxbranding.png?raw=true",
          "alt": "mellofox branding"
       }
    ]
