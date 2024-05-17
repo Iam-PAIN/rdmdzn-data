@@ -1,27 +1,27 @@
 {
    "showcaseProjects": [
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/stationary.png?raw=true",
          "alt": "stationary work"
       },
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/iphoneMockup.png?raw=true",
          "alt": "An iphone mockup"
       },
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/keychainStrap.png?raw=true",
          "alt": "keychain strap"
       },
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/drycleano.png?raw=true",
          "alt": "Hello drycleano branding"
       },
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/envelope.png?raw=true",
          "alt": "envelope"
       },
       {
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/home/images/showcases/mellofoxbranding.png?raw=true",
          "alt": "mellofox branding"
       }
    ]
