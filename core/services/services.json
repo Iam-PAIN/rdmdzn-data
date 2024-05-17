@@ -2,7 +2,7 @@
    "services": [
       {
          "title": "LOGO DESIGN",
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/services/images/logoDesign.png?raw=true",
          "description": "Our Logo Design package is best for startups and Small Businesses to start their Branding Journey with a Timeless Logo to represent their company or brand.",
          "packages": [
             "Two Logo Concepts",
@@ -15,7 +15,7 @@
       },
       {
          "title": "BRAND IDENTITY DESIGN",
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/services/images/brandIdentityDesign.png?raw=true",
          "description": "This package includes every bits and pieces of your Brand Identity. From Brand Pattern, Font Pairing, Color Palette, and Visuals to In-depth Brand Guidelines.",
          "packages": [
             "Two Logo Concepts",
@@ -29,7 +29,7 @@
       },
       {
          "title": "FREEFORM PACKAGE",
-         "image": "",
+         "image": "https://github.com/Iam-PAIN/rdmdzn-data/blob/main/core/services/images/freeformDesign.png?raw=true",
          "description": "As the name suggests this package can be configured to use as an add-on or a separate package altogether. Do what your heart wants. From UI/UX to Editable Social Media Templates We've got it all.",
          "packages": [
             "Web or App Design",
