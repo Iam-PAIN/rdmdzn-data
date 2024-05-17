@@ -1,0 +1,24 @@
+{
+   "designProcess": [
+      {
+         "title": "ENQUIRY",
+         "description": "Initial contact and discussion to understand your design needs. Gather basic information about your brand and project requirements."
+      },
+      {
+         "title": "DISCOVERY",
+         "description": "In-depth consultations to delve into your brand identity, values, and story. Identify unique elements that define your brand and set it apart."
+      },
+      {
+         "title": "ONBOARDING",
+         "description": "Formalize collaboration, discussing project scope, timelines, and expectations. Establish a clear understanding of your vision and goals for the design project."
+      },
+      {
+         "title": "DESIGN",
+         "description": "Conceptualization of design ideas based on the gathered information. Crafting design drafts that align with your brand's essence and objectives."
+      },
+      {
+         "title": "SIGN OFF",
+         "description": "Collaborate on design drafts, incorporating your feedback. Finalize designs, ensuring they meet your expectations and brand standards."
+      }
+   ]
+}

@@ -1,0 +1,44 @@
+{
+   "services": [
+      {
+         "title": "LOGO DESIGN",
+         "image": "",
+         "description": "Our Logo Design package is best for startups and Small Businesses to start their Branding Journey with a Timeless Logo to represent their company or brand.",
+         "packages": [
+            "Two Logo Concepts",
+            "Two Rounds of Revision",
+            "Primary Logo",
+            "Secondary Logo Design(s)",
+            "One Page PDF Usage Guide",
+            "Source File + JPG, PNG, SVG, PDF Exports"
+         ]
+      },
+      {
+         "title": "BRAND IDENTITY DESIGN",
+         "image": "",
+         "description": "This package includes every bits and pieces of your Brand Identity. From Brand Pattern, Font Pairing, Color Palette, and Visuals to In-depth Brand Guidelines.",
+         "packages": [
+            "Two Logo Concepts",
+            "Four Rounds of Revision",
+            "Primary Logo",
+            "Secondary Logo Design(s)",
+            "Complete Brand Guideline PDF",
+            "Social Media Kit + One Stationary Design",
+            "Source File + JPG, PNG, SVG, PDF Exports"
+         ]
+      },
+      {
+         "title": "FREEFORM PACKAGE",
+         "image": "",
+         "description": "As the name suggests this package can be configured to use as an add-on or a separate package altogether. Do what your heart wants. From UI/UX to Editable Social Media Templates We've got it all.",
+         "packages": [
+            "Web or App Design",
+            "Editable Social Media Templates",
+            "Instagram Highlight Icons",
+            "Letterhead Design",
+            "Email Design [Coded Working Template]",
+            "Branded Assets Design"
+         ]
+      }
+   ]
+}
